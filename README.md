@@ -1,9 +1,9 @@
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/crane-context-guided-prompt-learning-and/zero-shot-anomaly-detection-on-mvtec-ad-1)](https://paperswithcode.com/sota/zero-shot-anomaly-detection-on-mvtec-ad-1?p=crane-context-guided-prompt-learning-and) <br> -->
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/crane-context-guided-prompt-learning-and/zero-shot-anomaly-detection-on-visa)](https://paperswithcode.com/sota/zero-shot-anomaly-detection-on-visa?p=crane-context-guided-prompt-learning-and) -->
 
+[![Papers with Code: SOTA on MVTec AD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15336&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15336)
 [![Papers with Code: SOTA on BTAD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15348&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15348)
 [![Papers with Code: SOTA on MPDD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15354&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15354)
-[![Papers with Code: SOTA on MVTec AD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15336&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15336)
 [![Papers with Code: #2 on VisA (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15343&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15343)
 
 # $Crane$; Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection (BMVC 2026)
