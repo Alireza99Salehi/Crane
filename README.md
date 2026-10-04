@@ -71,7 +71,7 @@ Please download `sam_vit_b_01ec64.pth` from the official Segment Anything reposi
 You can download the datasets from their official sources, and use utilities in `datasets/generate_dataset_json/` to generate a compatible meta.json. Alternatively from the [AdaCLIP repository](https://github.com/caoyunkang/AdaCLIP?tab=readme-ov-file#industrial-visual-anomaly-detection-datasets) which has provided a compatible format of the datasets. Place all datasets under `DATASETS_ROOT`, which is defined in [`./__init__.py`](__init__.py). 
 
 ### 🔍 Inference
-The checkpoints for our trained "default" model are available in [`checkpoints`](/checkpoints/) directory. After installing needed libraries, reproduce the results by running: 
+The checkpoints for our trained default model are available in [`checkpoints`](/checkpoints/) directory. After installing needed libraries, reproduce the results by running: 
 ```bash
 bash test.sh "0"
 ```
