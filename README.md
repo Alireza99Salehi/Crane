@@ -1,10 +1,12 @@
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/crane-context-guided-prompt-learning-and/zero-shot-anomaly-detection-on-mvtec-ad-1)](https://paperswithcode.com/sota/zero-shot-anomaly-detection-on-mvtec-ad-1?p=crane-context-guided-prompt-learning-and) <br> -->
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/crane-context-guided-prompt-learning-and/zero-shot-anomaly-detection-on-visa)](https://paperswithcode.com/sota/zero-shot-anomaly-detection-on-visa?p=crane-context-guided-prompt-learning-and) -->
 
-[![Papers with Code: SOTA on MVTec AD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15336&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15336)
-[![Papers with Code: SOTA on BTAD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15348&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15348)
+[![Papers with Code: SOTA on MVTec AD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15337&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15337)
 [![Papers with Code: SOTA on MPDD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15354&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15354)
-[![Papers with Code: #2 on VisA (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15343&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15343)
+[![Papers with Code: SOTA on BTAD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=15352&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=15352)
+[![Papers with Code: SOTA on DAGM (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=37044&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=37044)
+[![Papers with Code: SOTA on Br35H (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=37037&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=37037)
+[![Papers with Code: SOTA on CVC-ColonDB (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge.svg?eval=37048&live=1)](https://paperswithcode.co/api/v1/papers/2504.11055/leaderboard-badge-link?eval=37048)
 
 # $Crane$; Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detection (BMVC 2026)
 The repository contains official code for $Crane$, a zero-shot anomaly detection framework built on CLIP.
