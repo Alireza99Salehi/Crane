@@ -157,7 +157,7 @@ If you find this project helpful for your research, please consider citing the f
 **BibTeX:**
 ```bibtex
 @article{salehi2025crane,
-  title={Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections},
+  title={Crane: Context-guided prompt learning and attention refinement for zero-shot anomaly detection},
   author={Salehi, Alireza and Salehi, Mohammadreza and Hosseini, Reshad and Snoek, Cees GM and Yamada, Makoto and Sabokrou, Mohammad},
   journal={arXiv preprint arXiv:2504.11055},
   year={2025}
